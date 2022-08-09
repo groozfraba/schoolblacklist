@@ -7,7 +7,6 @@ api.hapara.com
 useast-www.securly.com
 beacons.gcp.gvt2.com
 hl.hapara.com
-beacons.gvt2.com
 rc.hapara.com
 teacherdashboard.com	
 ep.learnplatform.com
