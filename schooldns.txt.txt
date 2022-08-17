@@ -2,6 +2,8 @@
 # currently supports hapara, securly, gogardian
 #
 # if you want to request a program you can tell me in githubs issues tab
+# you can just do a rexlist of hapara.com, goguardian.com, securly.com, etc for the same efect
+
 
 api.hapara.com
 useast-www.securly.com
