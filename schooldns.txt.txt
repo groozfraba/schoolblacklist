@@ -2,7 +2,7 @@
 # currently supports hapara, securly, gogardian
 #
 # if you want to request a program you can tell me in githubs issues tab
-# you can just do a rexlist of hapara.com, goguardian.com, securly.com, etc for the same efect
+# you can just do a rex list of hapara.com, goguardian.com, securly.com, etc for the same efect
 
 
 api.hapara.com
@@ -13,3 +13,4 @@ rc.hapara.com
 teacherdashboard.com	
 ep.learnplatform.com
 inquisition.goguardian.com
+ip.goguardian.com
