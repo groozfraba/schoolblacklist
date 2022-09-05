@@ -1,8 +1,10 @@
-#this is a list made to block school spyware and filters
-# currently supports hapara, securly, gogardian
-#
-# if you want to request a program you can tell me in githubs issues tab
-# you can just do a rex list of hapara.com, goguardian.com, securly.com, etc for the same efect
+# ///////////////////////////////////////////////////////////////////////////////////////////////////////////////#
+# this is a list made to block school spyware and filters                                                        #
+# currently supports hapara, securly, gogardian                                                                  #
+#                                                                                                                #
+# if you want to request a domain/program you can tell me in githubs "Pull requests" tab                         #
+# you can just do a rex list of hapara.com, goguardian.com, securly.com, etc for a similiar effect               #
+#\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#
 
 
 api.hapara.com
