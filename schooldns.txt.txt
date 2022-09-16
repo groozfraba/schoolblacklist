@@ -17,3 +17,4 @@ ep.learnplatform.com
 inquisition.goguardian.com
 ip.goguardian.com
 snat.goguardian.com
+blocked.goguardian.com
