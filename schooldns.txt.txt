@@ -1,5 +1,5 @@
 # ///////////////////////////////////////////////////////////////////////////////////////////////////////////////#
-# this is a list made to block school spyware and filters                                                        #
+# this is a list made to block school spyware and filters.                                                       #
 # currently supports hapara, securly, gogardian                                                                  #
 #                                                                                                                #
 # if you want to request a domain/program you can tell me in githubs "Pull requests" tab                         #
@@ -7,14 +7,14 @@
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#
 
 
-api.hapara.com
-useast-www.securly.com
-beacons.gcp.gvt2.com
-hl.hapara.com
-rc.hapara.com
-teacherdashboard.com	
-ep.learnplatform.com
-inquisition.goguardian.com
-ip.goguardian.com
-snat.goguardian.com
-blocked.goguardian.com
+127.0.0.1 api.hapara.com
+127.0.0.1 useast-www.securly.com
+127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 hl.hapara.com
+127.0.0.1 rc.hapara.com
+127.0.0.1 teacherdashboard.com	
+127.0.0.1 ep.learnplatform.com
+127.0.0.1 inquisition.goguardian.com
+127.0.0.1 ip.goguardian.com
+127.0.0.1 snat.goguardian.com
+127.0.0.1 blocked.goguardian.com
