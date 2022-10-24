@@ -18,3 +18,4 @@ inquisition.goguardian.com
 ip.goguardian.com
 snat.goguardian.com
 blocked.goguardian.com
+sslcheck.securly.com
